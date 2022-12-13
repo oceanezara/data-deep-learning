@@ -1,1 +1,1 @@
-# data-deeplearning
+# data-deep-learning
